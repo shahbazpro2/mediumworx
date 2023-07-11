@@ -6,14 +6,14 @@ const stories = [
         name: 'TaxAgents.ai',
         image: 'https://unsplash.com/photos/xoU52jUVUXA',
         testimonial:
-            "TaxAgents leverages advanced artificial intelligence, driven by intelligent agent powered by OpenAI's GPT-4 to provide reliable and effective support to tax professionals in addressing client's tax related inquiries. Our solution is bolstered by relevant resources, including Internal Revenue Codes, Regulations, and Tax Court Cases.",
+            "TaxAgents leverages advanced artificial intelligence, driven by intelligent agent powered by OpenAI's GPT-4 to provide reliable and effective support to tax professionals in addressing client's tax related inquiries.",
     },
     {
         id: 2,
         name: 'LegalAgents.ai',
         image: 'https://unsplash.com/photos/veNb0DDegzE',
         testimonial:
-            "LegalAgents leverages advanced artificial intelligence, driven by intelligent agent powered by OpenAI's GPT-4 to provide reliable and effective support to legal professionals in addressing client's legal related inquiries. Our solution is bolstered by relevant resources, including United States Codes, Code of Federal Regulations, and Court Cases.",
+            "LegalAgents leverages advanced artificial intelligence, driven by intelligent agent powered by OpenAI's GPT-4 to provide reliable and effective support to legal professionals in addressing client's legal related inquiries.",
     },
     {
         id: 3,
