@@ -39,7 +39,7 @@ const Footer = () => {
 
                     </div>
                     <div className="md:col-span-2 mt-7">
-                        <div className="grid grid-cols-2 md:grid-cols-5 gap-5 text-xs md:w-[45%]">
+                        <div className="grid grid-cols-2 md:grid-cols-6 gap-5 text-xs lg:w-[50%]">
                             <div>
                                 <a href="https://www.twitter.com/" target="_blank" rel="noreferrer">
                                     <div className='flex gap-2 items-center'>
@@ -80,7 +80,7 @@ const Footer = () => {
                                 </a>
 
                             </div>
-                            <div>
+                            <div className='col-span-2'>
                                 <a href="https://www.youtube.com/" target="_blank" rel="noreferrer">
                                     <div className='flex gap-2 items-center'>
                                         <img src="/assets/icons/huggingface.svg" alt="huggingface" className='w-[30px]' />
