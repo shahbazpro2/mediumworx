@@ -35,7 +35,7 @@ const Header = () => {
                                     </Disclosure.Button>
                                 </div>
                                 <div className="flex flex-1 items-center justify-center sm:items-center sm:justify-between py-5">
-                                    <Link href='/' className='sm:w-[100px] lg:w-[150px] flex justify-center items-center gap-3'>
+                                    <Link href='/' className='flex justify-center items-center gap-3'>
                                         <img src="/assets/images/logo.png" alt="logo" className='w-50' />
                                         <div className="text-primary text-2xl font-bold">mediumworx</div>
                                     </Link>
