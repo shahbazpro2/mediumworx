@@ -19,7 +19,7 @@ const Footer = () => {
                             mediumwork is a registered trademark of mediumworx LLC.
                         </div>
                         <div>
-                            <Link href="/privacy" className='underline'>Privacy</Link>, <Link href="/terms" className='underline'>Terms</Link> ,and <Link href="/" className='underline'>Cookie Policy</Link>
+                            <Link href="/privacy" className='underline'>Privacy</Link>, <Link href="/terms" className='underline'>Terms</Link> ,and <Link href="/cookie" className='underline'>Cookie Policy</Link>
                         </div>
 
                     </div>
