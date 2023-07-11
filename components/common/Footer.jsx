@@ -84,7 +84,7 @@ const Footer = () => {
                                 <a href="https://www.youtube.com/" target="_blank" rel="noreferrer">
                                     <div className='flex gap-2 items-center'>
                                         <img src="/assets/icons/huggingface.svg" alt="huggingface" className='w-[30px]' />
-                                        <span>Youtube</span>
+                                        <span>Hugging Face</span>
 
                                     </div>
                                 </a>
