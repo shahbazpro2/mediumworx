@@ -3,24 +3,24 @@ import React from 'react'
 const stories = [
     {
         id: 1,
-        name: 'John Doe',
+        name: 'TaxAgents.ai',
         image: 'https://source.unsplash.com/featured/?person=john',
         testimonial:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vestibulum ligula ac felis congue, ut rhoncus nunc placerat. Sed nec tempor est, id fermentum tortor. Nullam feugiat mi at ligula consequat, id lacinia mauris pellentesque.',
+            "TaxAgents leverages advanced artificial intelligence, driven by intelligent agent powered by OpenAI's GPT-4 to provide reliable and effective support to tax professionals in addressing client's tax related inquiries.",
     },
     {
         id: 2,
-        name: 'Jane Smith',
+        name: 'LegalAgents.ai',
         image: 'https://source.unsplash.com/featured/?person=jane',
         testimonial:
-            'Pellentesque a ipsum sed justo pulvinar vulputate vitae a justo. Sed cursus euismod leo, id semper velit tincidunt in. Etiam finibus, lorem at ultrices pulvinar, lectus felis finibus turpis, sed bibendum orci felis vel arcu.',
+            "LegalAgents leverages advanced artificial intelligence, driven by intelligent agent powered by OpenAI's GPT-4 to provide reliable and effective support to legal professionals in addressing client's legal related inquiries.",
     },
     {
         id: 3,
-        name: 'Bob Smith',
+        name: 'Customer',
         image: 'https://source.unsplash.com/featured/?person=bob',
         testimonial:
-            'Sed cursus euismod leo, id semper velit tincidunt in. Etiam finibus, lorem at ultrices pulvinar, lectus felis finibus turpis, sed bibendum orci felis vel arcu. Pellentesque a ipsum sed justo pulvinar vulputate vitae a justo.',
+            'Work with us in partnership to bring artificial intelligence solution to your organization.',
     },
     // Add more stories as needed
 ];
