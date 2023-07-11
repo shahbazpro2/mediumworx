@@ -3,24 +3,24 @@ import React from 'react'
 const stories = [
     {
         id: 1,
-        name: 'John Doe',
-        image: 'https://source.unsplash.com/featured/?person=john',
+        name: 'TaxAgents.ai',
+        image: 'https://unsplash.com/photos/xoU52jUVUXA',
         testimonial:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vestibulum ligula ac felis congue, ut rhoncus nunc placerat. Sed nec tempor est, id fermentum tortor. Nullam feugiat mi at ligula consequat, id lacinia mauris pellentesque.',
+            "TaxAgents leverages advanced artificial intelligence, driven by intelligent agent powered by OpenAI's GPT-4 to provide reliable and effective support to tax professionals in addressing client's tax related inquiries. Our solution is bolstered by relevant resources, including Internal Revenue Codes, Regulations, and Tax Court Cases.",
     },
     {
         id: 2,
-        name: 'Jane Smith',
-        image: 'https://source.unsplash.com/featured/?person=jane',
+        name: 'LegalAgents.ai',
+        image: 'https://unsplash.com/photos/veNb0DDegzE',
         testimonial:
-            'Pellentesque a ipsum sed justo pulvinar vulputate vitae a justo. Sed cursus euismod leo, id semper velit tincidunt in. Etiam finibus, lorem at ultrices pulvinar, lectus felis finibus turpis, sed bibendum orci felis vel arcu.',
+            "LegalAgents leverages advanced artificial intelligence, driven by intelligent agent powered by OpenAI's GPT-4 to provide reliable and effective support to legal professionals in addressing client's legal related inquiries. Our solution is bolstered by relevant resources, including United States Codes, Code of Federal Regulations, and Court Cases.",
     },
     {
         id: 3,
-        name: 'Bob Smith',
+        name: 'Customer',
         image: 'https://source.unsplash.com/featured/?person=bob',
         testimonial:
-            'Sed cursus euismod leo, id semper velit tincidunt in. Etiam finibus, lorem at ultrices pulvinar, lectus felis finibus turpis, sed bibendum orci felis vel arcu. Pellentesque a ipsum sed justo pulvinar vulputate vitae a justo.',
+            'Work with us in partnership to bring artificial intelligence solution to your organization.',
     },
     // Add more stories as needed
 ];
