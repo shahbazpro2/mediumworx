@@ -3,7 +3,7 @@ import React from 'react'
 
 const Terms = () => {
     return (
-        <div className='py-20 container'>
+        <div className='py-30 container'>
             <div className="text-center md:w-[600px] m-auto">
                 <div className="text-4xl font-bold">Terms of Service</div>
                 <div className="mt-1 text-sm">Last Updated: April 1, 2023</div>

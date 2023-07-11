@@ -4,7 +4,7 @@ import React from 'react'
 const Section3 = () => {
     return (
         <div className="bg-secondary">
-            <div className='md:py-20 py-10 container'>
+            <div className='md:py-32 py-10 container'>
                 <div className='md:w-[750px] m-auto text-center space-y-3'>
                     <div className="text-4xl font-bold">Mediumworks makes intelligent agent easy</div>
                     <div className="text-lg">
