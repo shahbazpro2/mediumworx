@@ -15,8 +15,8 @@ const Footer = () => {
                             </div>
                         </div>
                         <div className="text-sm my-3 text-gray-300">
-                            @ 2023 mediumworx LLC. All rights reserved.
-                            mediumwork is a registered trademark of mediumworx LLC.
+                            @{new Date().getFullYear()} Mediumworx LLC. All rights reserved.
+                            mediumwork is a registered trademark of Mediumworx LLC
                         </div>
                         <div>
                             <Link href="/privacy" className='underline'>Privacy</Link>, <Link href="/terms" className='underline'>Terms</Link> ,and <Link href="/cookie" className='underline'>Cookie Policy</Link>
