@@ -3,8 +3,8 @@ import React from 'react'
 
 const Home = () => {
     return (
-        <div className='py-20 container'>
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-20">
+        <div className='md:py-20 py-10 container'>
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-20 pb-20">
                 <div className='flex justify-center items-center h-full'>
                     <img src="/assets/images/homebg.png" alt="homebg" className='w-full 2xl:w-[80%]' />
                 </div>
