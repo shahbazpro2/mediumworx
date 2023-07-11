@@ -15,7 +15,7 @@ const Footer = () => {
                             </div>
                         </div>
                         <div className="text-sm my-3 text-gray-300">
-                            @{new Date().getFullYear()} Mediumworx LLC. All rights reserved.
+                            @{new Date().getFullYear()} Mediumworx LLC. All rights reserved.<br />
                             mediumwork is a registered trademark of Mediumworx LLC
                         </div>
                         <div>
